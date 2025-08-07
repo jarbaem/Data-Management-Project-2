@@ -1,5 +1,4 @@
 # ✈️ Airline Performance 2007
-A repository for airline performance in 2007. 
 
 This project explores the patterns behind these disruptions using the **Airline On-Time Performance** dataset from [Kaggle](https://www.kaggle.com/datasets/wenxingdi/data-expo-2009-airline-on-time-data/data?select=1993.csv) to uncover the *when*, *where*, and *why* of flight delays and cancellations.
 
